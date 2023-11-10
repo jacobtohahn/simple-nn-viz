@@ -1,3 +1,9 @@
+'''
+A script to build and visualize a neural network using Tensorflow, Keras and SciKit-Learn
+Also available as a Jupyter Notebook:
+https://github.com/jacobtohahn/simple-nn-viz/blob/main/simple_nn_decision.ipynb
+'''
+
 import math, random, os, time
 from numpy import array, vstack, linspace
 import matplotlib.pyplot as plt
